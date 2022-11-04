@@ -41,8 +41,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Caso 1\Cliente.cs" />
+    <Compile Include="Caso 1\Usuario.cs" />
+    <Compile Include="Caso 2\Cliente.cs" />
+    <Compile Include="Caso 2\Pedido.cs" />
+    <Compile Include="Caso 3\Azafata.cs" />
+    <Compile Include="Caso 3\Tripulacion.cs" />
     <Compile Include="Caso 4\Alumno.cs" />
     <Compile Include="Caso 4\Docente.cs" />
+    <Compile Include="Caso 6\Clinica.cs" />
+    <Compile Include="Caso 6\Director.cs" />
     <Compile Include="Categoria.cs" />
     <Compile Include="Clases Derivadas\Cliente.cs" />
     <Compile Include="Clases Derivadas\Empleado.cs" />
